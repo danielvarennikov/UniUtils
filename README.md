@@ -1,2 +1,2 @@
 # UniUtils
-Some small utility programs I did while studying 
+Some small utility programs I did while studying at university

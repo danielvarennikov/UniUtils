@@ -5,7 +5,9 @@ A simple UNIX shell
 
 The shell supports piping, I\O redirection and classic UNIX commands (and a few additional ones).
 
-Special commands: 1.#procs# -> running processes and their status.
+Special commands: 
+
+1.#procs# -> running processes and their status.
 
 2.#set# -> create a variable in the global enviorment($ before it to access it afterwards).
 
